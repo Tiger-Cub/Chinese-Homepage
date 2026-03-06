@@ -1,4 +1,0 @@
-title: Pedro Tamaroff
-
-sass:
-style: :compressed
